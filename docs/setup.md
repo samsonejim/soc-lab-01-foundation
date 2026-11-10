@@ -13,4 +13,4 @@
 - Typo `netlogin` in Get-Service → corrected to `netlogon`.
 
 ## Time
-- ~2.5 h total (install ~25 min on HDD)
+- ~2 h total (install ~25 min on HDD)
